@@ -46,7 +46,9 @@ title('Graphical Representation of output Signal y');
 ```
 
 ### CALCULATIONS:
-<img width="882" height="1280" alt="image" src="https://github.com/user-attachments/assets/11d29f12-900d-419a-88df-2699931e0a90" />
+<img width="755" height="1280" alt="image" src="https://github.com/user-attachments/assets/0430f321-a766-4711-96eb-c9c9d142b983" />
+<img width="770" height="1280" alt="image" src="https://github.com/user-attachments/assets/e9def13a-4ce0-47dc-9882-9060b5ce06d9" />
+<img width="1600" height="1560" alt="image" src="https://github.com/user-attachments/assets/a98aaa6e-9c16-4283-b747-015a98d63daf" />
 
 
 ### SAMPLE OUTPUT:
